@@ -14,7 +14,7 @@
       
       <guid>http://example.org/post/my-first-post/</guid>
       <description>#This is my first blog
-Welcome everyone to communciate with me. ###这次博客中所遇到的问题：无法将在向Github上传本地的博客时因为网络问题而 无法上传，导致在Github上无法出现自己的本地库；解决方法：更新网络后，重新在 Github Desktop上提交自己的博客，最后成功上传。</description>
+Welcome everyone to communciate with me. ##这次博客中所遇到的问题：无法将在向Github上传本地的博客时因为网络问题而 无法上传，导致在Github上无法出现自己的本地库；解决方法：更新网络后，重新在 Github Desktop上提交自己的博客，最后成功上传。</description>
     </item>
     
   </channel>
